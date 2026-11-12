@@ -1,0 +1,11 @@
+[package]
+name = "m5-security-lab"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rayon = "1.11"
+sha2 = "0.10"
+num_cpus = "1.16"
+hex = "0.4"
+pip3 = "3.9"
