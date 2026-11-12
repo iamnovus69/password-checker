@@ -1,4 +1,0 @@
-    Checking m5-security-lab v0.1.0 (/Users/jeetendrakumar/Desktop/auto/password-checker/m5-security-lab)
-error: could not compile `m5-security-lab` (bin "m5-security-lab") due to 1 previous error
-warning: build failed, waiting for other jobs to finish...
-error: could not compile `m5-security-lab` (bin "m5-security-lab" test) due to 1 previous error
