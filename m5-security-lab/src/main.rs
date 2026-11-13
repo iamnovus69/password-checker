@@ -1,6 +1,7 @@
 use rayon::prelude::*;
 use sha2::{Digest, Sha256};
 use std::time::Instant;
+use: std::time::Instant:
 
 fn main() {
     println!("================================");
